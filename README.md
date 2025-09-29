@@ -1,0 +1,3 @@
+have
+HELMETS, ARMS, CORES, BACKPACKS, LEGS, UNDERSUITS
+file system soon
