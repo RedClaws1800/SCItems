@@ -1,5 +1,3 @@
-have
-
-HELMETS, ARMS, CORES, BACKPACKS, LEGS, UNDERSUITS
+Have Everything in the game
 
 file system soon
